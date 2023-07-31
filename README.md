@@ -59,7 +59,7 @@
 
 ## 📌 Projects  
 
-[프로젝트 Repository](https://github.com/ksm463/Sesac_Project)
+[프로젝트 Repository](https://github.com/ksm463/Sesac_projects)
 
 ||Period|Project|Field|
 :-----:|:-----:|-----|---|
