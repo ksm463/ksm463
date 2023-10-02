@@ -1,5 +1,5 @@
 ## 안녕하세요! 
-데이터/AI 개발을 공부중입니다.
+데이터/AI 개발을 공부중인 새내기 개발자입니다.
  
 <br>  
    
@@ -16,7 +16,6 @@
 <p>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 ### Libraries
@@ -32,6 +31,9 @@
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 ### Tools
