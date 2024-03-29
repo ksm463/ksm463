@@ -67,7 +67,7 @@
 [오드로이드 대시보드 Repository](https://github.com/ksm463/odroid_dashboard)
 ||Period|Project|Field|
 :-----:|:-----:|-----|---|
-|1|`2024.02.14 ~ 2024.03.10`|**오드로이드 대시보드**|`Backend & Dashboard`|
+|1|`2024.02.14 ~ 2024.03.10`|**오드로이드 대시보드**|`Embedded & Dashboard`|
 
 [Sesac 프로젝트 Repository](https://github.com/ksm463/Sesac_projects)
 
