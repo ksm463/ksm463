@@ -1,5 +1,7 @@
 ## 안녕하세요! 
-백엔드/데이터/AI 개발을 공부중인 주니어 개발자입니다.
+데이터에서 가치를 발견하고, 안정적인 AI 서비스를 구축하는 MLOPS 엔지니어입니다.
+
+AI 모델의 고성능 서빙과 효율적인 운영 파이프라인 구축에 관심이 많습니다.
  
 <br>  
    
@@ -14,18 +16,17 @@
 
 ### Languages
 <p>
-    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-    <!-- <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> -->
-    <!-- <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> -->
-    <!-- <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> -->
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 </p>
 
-### Develop Environments
+### Backend & Frameworks
 <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VScode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img alt="Google_Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
+<img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="gRPC" src="https://img.shields.io/badge/gRPC-04A853?style=for-the-badge&logo=grpc&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white"/>
 </p>
 
 ### OS
@@ -34,31 +35,40 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
 </p>
 
-### DB
+### AI / ML
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### Tools
+### Database
 <p>
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
- <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
- <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
- <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
-### Cloud
+### Infra & Tools
 <p>
-  <img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="Nvidia Docker" src="https://img.shields.io/badge/Nvidia_Docker-76B900?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="Label Studio" src="https://img.shields.io/badge/Label_Studio-FF6600?style=for-the-badge&logo=labelstudio&logoColor=white"/>
 </p>
 
-### Backend Frameworks
+### Monitoring
 <p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+### OS
+<p>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 </p>
 
 <br>
