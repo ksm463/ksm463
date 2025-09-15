@@ -72,26 +72,38 @@
 
 <br>
 
-## 📌 Projects  
-[오드로이드 대시보드 Repository](https://github.com/ksm463/odroid_dashboard)
-||Period|Project|Field|
-:-----:|:-----:|-----|---|
-|1|`2024.02.14 ~ 2024.03.10`|**오드로이드 대시보드**|`Embedded & Dashboard`|
+## 📌 Projects
 
-[Sesac 프로젝트 Repository](https://github.com/ksm463/Sesac_projects)
+### 🚀 gRPC Diffusion Server (사이드 프로젝트)
+> **텍스트 프롬프트 기반 이미지 생성을 위한 MLOps 파이프라인 구축 프로젝트**
 
-||Period|Project|Field|
-:-----:|:-----:|-----|---|
-|1|`2023.02.15 ~ 2023.04.07`|**식물집사 푸리**|`NLP & Recommendation System`|
-|2|`2022.12.19 ~ 2022.12.27`|**딥러닝 영상기술을 이용한 과채류 종류 및 신선도 판별**|`Computer Vision`|
-|3|`2022.11.30 ~ 2022.12.08`|**기후변화에 따른 사과 재배지 변화 예측 모델**|`Machine Learning`|
-|4|`2022.11.15 ~ 2022.11.23`|**Python을 이용한 미국 총기사건 현황 시각화**|`Visualization`|
+* **주요 기능:**
+  * `gRPC`를 이용한 프롬프트 및 설정값 전송
+  * `Redis Queue`를 활용한 AI Worker 작업 분배
+  * `Nvidia Docker` 환경에서 PyTorch Stable Diffusion 모델 서빙
+  * `Supabase` DB를 이용한 생성 이미지 메타데이터 및 결과 저장/조회
+  * `Prometheus`, `Grafana`를 통한 시스템 및 GPU 상태 모니터링 대시보드 구축
+* **Repository:** [https://github.com/ksm463/grpc-diffusion-server](https://github.com/ksm463/grpc-diffusion-server)
+* **기간:** `2025.07.01 ~ 2025.08.31`
+* **Skills:** `Python`, `FastAPI`, `gRPC`, `PyTorch`, `Redis`, `Supabase`, `Nvidia Docker`, `Prometheus`, `Grafana`
 
+### 🖥️ 오드로이드 대시보드
+> **임베디드 보드(Odroid)의 시스템 상태 모니터링을 위한 웹 대시보드 개발**
 
+* **Repository:** <https://github.com/ksm463/odroid_dashboard>
+* **기간:** `2024.02.14 ~ 2024.03.10`
+* **Field:** `Embedded & Dashboard`
+
+### 🎓 SeSAC 파이널 프로젝트: 식물집사 푸리
+> **자연어 처리 기반 식물 추천 및 관리 정보 제공 서비스**
+
+* **Repository:** <https://github.com/ksm463/Sesac_projects>
+* **기간:** `2023.02.15 ~ 2023.04.07`
+* **Field:** `NLP & Recommendation System`
 
 
 <br>
 <br>
 
-| <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksm463&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming" alt="Anurag's github stats" /></a> | <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksm463&hide=Jupyter%20Notebook,PureBasic,XSLT&layout=compact&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming&cache_bust=2" /></a> |
+| <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksm463&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming" alt="Anurag's github stats" /></a> | <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksm463&hide=Jupyter%20Notebook,HTML,Java,Ruby,SCSS,PureBasic,XSLT&layout=compact&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming&cache_bust=2" /></a> |
 | ------------- | ------------- |
