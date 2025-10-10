@@ -1,6 +1,5 @@
 ## 안녕하세요! 
-데이터/AI/백엔드를 개발하는 주니어 AI 엔지니어입니다.
-
+데이터/AI/백엔드를 개발하는 AI 엔지니어입니다.
  
 <br>  
    
@@ -98,7 +97,6 @@
 * **Repository:** <https://github.com/ksm463/Sesac_projects>
 * **기간:** `2023.02.15 ~ 2023.04.07`
 * **Field:** `NLP & Recommendation System`
-
 
 <br>
 <br>
