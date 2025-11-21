@@ -25,12 +25,6 @@
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white"/>
 </p>
 
-### OS
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/> 
-</p>
-
 ### AI / ML
 <p>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -61,11 +55,6 @@
 <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-### OS
-<p>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
-</p>
 
 <br>
 
