@@ -90,5 +90,5 @@
 <br>
 <br>
 
-| <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksm463&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming" alt="Anurag's github stats" /></a> | <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksm463&hide=Jupyter%20Notebook,HTML,Java,Ruby,SCSS,PureBasic,XSLT&layout=compact&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming&cache_bust=2" /></a> |
+| <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ksm463&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming" alt="Anurag's github stats" /></a> | <a href="https://github.com/ksm463/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ksm463&hide=Jupyter%20Notebook,HTML,Java,Ruby,SCSS,PureBasic,XSLT&layout=compact&theme=buefy&hide_border=true&exclude_repo=web-viewer-streaming" /></a> |
 | ------------- | ------------- |
