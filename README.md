@@ -89,3 +89,6 @@
 
 <br>
 <br>
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksm463)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksm463)
